@@ -4,6 +4,6 @@ SQL Mapping Framework for Common Lisp
 
 |---------+--------------------------------------------------|
 | source  | git:https://github.com/tamurashingo/cl-batis.git |
-| commit  | 6f48d77                                          |
+| commit  | 3d08844                                          |
 | systems | cl-batis                                         |
 |---------+--------------------------------------------------|
